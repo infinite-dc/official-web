@@ -1,0 +1,13 @@
+{
+  "index": "en.html",
+  "routers": [{
+    "name": "home",
+    "entry": "./index/index",
+    "template": "./index/templates/en.html",
+    "filename": "home_en.html",
+    "templateParameters": {
+      "USER_SCRIPT": ""
+    },
+    "layout": ["header", "footer"]
+  }]
+}

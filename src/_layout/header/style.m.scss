@@ -1,0 +1,50 @@
+header {
+  .container {
+    display: block;
+
+    .logo {
+      svg {
+        width: 245px;
+        height: 24px;
+      }
+    }
+  }
+
+  .menu {
+    display: none;
+
+    a {
+      display: block;
+      margin: 20px 10px;
+    }
+  }
+
+  &.show-menu {
+    background: #fff;
+    border-bottom: #888 solid 1px;
+
+    .container a {
+      color: #000;
+    }
+    .logo-path {
+      fill: #000;
+    }
+    .btn-path {
+      stroke: #000;
+    }
+
+    .menu {
+      display: block;
+    }
+
+  }
+
+  .m-btn {
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 22px;
+  }
+}
+
+

@@ -1,0 +1,64 @@
+header {
+  padding: 17px 0;
+  position: fixed;
+  width: 100%;
+  transition: all ease 0.25s;
+  z-index: 99;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    a {
+      color: #fff;
+      margin-right: 40px;
+      font-size: 16px;
+      transition: all ease 0.25s;
+
+      &:last-child {
+        margin-right: 0;
+      }
+
+      &:hover {
+        border-bottom: #fff solid 2px;
+      }
+    }
+
+    .logo-path {
+      fill: #fff;
+      transition: all ease 0.25s;
+    }
+    .btn-path {
+      stroke: #fff;
+      transition: all ease 0.25s;
+    }
+  }
+
+  &.not-top {
+    background: #fff;
+    border-bottom: #888 solid 1px;
+
+    .container a {
+      color: #000;
+
+      &:hover {
+        border-color: #000;
+      }
+    }
+    .logo-path {
+      fill: #000;
+    }
+    .btn-path {
+      stroke: #000;
+    }
+  }
+
+  .m-btn {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  @import './style.m.scss';
+}

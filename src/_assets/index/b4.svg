@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1230px" height="760px" viewBox="0 0 1230 760" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>编组 37</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="200" height="125" rx="16"></rect>
+        <filter x="-11.2%" y="-14.0%" width="127.5%" height="144.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.839532382   0 0 0 0 0.839532382   0 0 0 0 0.839532382  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="200" height="125" rx="16"></rect>
+        <filter x="-11.2%" y="-14.0%" width="127.5%" height="144.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.839532382   0 0 0 0 0.839532382   0 0 0 0 0.839532382  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="200" height="125" rx="16"></rect>
+        <filter x="-11.2%" y="-14.0%" width="127.5%" height="144.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.839532382   0 0 0 0 0.839532382   0 0 0 0 0.839532382  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="200" height="125" rx="16"></rect>
+        <filter x="-11.2%" y="-14.0%" width="127.5%" height="144.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.839532382   0 0 0 0 0.839532382   0 0 0 0 0.839532382  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="200" height="125" rx="16"></rect>
+        <filter x="-11.2%" y="-14.0%" width="127.5%" height="144.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.839532382   0 0 0 0 0.839532382   0 0 0 0 0.839532382  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="200" height="125" rx="16"></rect>
+        <filter x="-11.2%" y="-14.0%" width="127.5%" height="144.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.839532382   0 0 0 0 0.839532382   0 0 0 0 0.839532382  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="0" y="0" width="200" height="125" rx="16"></rect>
+        <filter x="-11.2%" y="-14.0%" width="127.5%" height="144.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.839532382   0 0 0 0 0.839532382   0 0 0 0 0.839532382  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="200" height="125" rx="16"></rect>
+        <filter x="-11.2%" y="-14.0%" width="127.5%" height="144.0%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.839532382   0 0 0 0 0.839532382   0 0 0 0 0.839532382  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-17" x="0" y="0" width="200" height="125" rx="16"></rect>
+        <filter x="-11.2%" y="-14.0%" width="127.5%" height="144.0%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.839532382   0 0 0 0 0.839532382   0 0 0 0 0.839532382  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rampdefi备份" transform="translate(-110.000000, -2983.000000)">
+            <g id="编组-37" transform="translate(120.000000, 2988.000000)">
+                <g id="编组-32备份-2" transform="translate(234.000000, 305.000000)">
+                    <g id="矩形备份-10">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <rect id="矩形备份-11" stroke="#00B5D2" fill-opacity="0.1" fill="#00B5D2" opacity="0.334007626" x="6" y="6" width="188" height="113" rx="12"></rect>
+                    <text id="Collateralized-asset" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#00B5D2">
+                        <tspan x="33.709" y="64">Collateralized assets </tspan>
+                        <tspan x="17.434" y="84">locked into staking nodes </tspan>
+                        <tspan x="23.846" y="104">to earn staking rewards </tspan>
+                    </text>
+                    <text id="rStake" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#00B5D2">
+                        <tspan x="78.368" y="35">rStake</tspan>
+                    </text>
+                </g>
+                <text id="Assets-held-in-rStak" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="241.535" y="165">Assets held in </tspan>
+                    <tspan x="226.128" y="185">rStake to generate </tspan>
+                    <tspan x="235.361" y="205">staking rewards   </tspan>
+                </text>
+                <text id="80%-rewards-back-to" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="990.649" y="355">80% rewards </tspan>
+                    <tspan x="993.309" y="375">back to user</tspan>
+                </text>
+                <text id="80%-rewards-back-to" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="103.649" y="355">80% rewards </tspan>
+                    <tspan x="106.309" y="375">back to user</tspan>
+                </text>
+                <text id="20%-rewards-accrue-t" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="357.649" y="463">20% rewards </tspan>
+                    <tspan x="350.922" y="483">accrue to rPool </tspan>
+                </text>
+                <text id="Send-tokens-for-swap" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="103.457" y="658">Send tokens for swap</tspan>
+                </text>
+                <text id="Send-tokens-for-swap备份" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="954.457" y="653">Send tokens for swap</tspan>
+                </text>
+                <text id="20%-rewards-accrue-t备份" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="749.649" y="466">20% rewards </tspan>
+                    <tspan x="742.922" y="486">accrue to rPool </tspan>
+                </text>
+                <text id="Users-may-swap-again" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="596.851" y="570">Users may swap against assets in </tspan>
+                    <tspan x="589.795" y="590">rPool,with swap fees paid into rPool</tspan>
+                </text>
+                <text id="interest-fees-genera" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="427.218" y="165">interest fees </tspan>
+                    <tspan x="423.641" y="185">generated for </tspan>
+                    <tspan x="425.363" y="205">lending rUSD</tspan>
+                </text>
+                <text id="interest-fees-genera" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="678.218" y="164">interest fees </tspan>
+                    <tspan x="674.641" y="184">generated for </tspan>
+                    <tspan x="675.033" y="204">lending eUSD</tspan>
+                </text>
+                <text id="Assets-held-in-rFarm" opacity="0.5" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="846.157" y="163">Assets held in rFarm </tspan>
+                    <tspan x="849.615" y="183">to generate staking </tspan>
+                    <tspan x="887.17" y="203">rewards</tspan>
+                </text>
+                <g id="编组-35" transform="translate(0.000000, 190.000000)">
+                    <g id="矩形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <text id="User's-Non--ERC20-Wa" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#000000">
+                        <tspan x="54.144" y="31">User's Non-</tspan>
+                        <tspan x="48.472" y="53">ERC20 Wallet</tspan>
+                    </text>
+                    <text id="Non-ERC20-Digital-As" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="61.03" y="87">Non-ERC20 </tspan>
+                        <tspan x="56.389" y="107">Digital Assets</tspan>
+                    </text>
+                </g>
+                <g id="编组-33" transform="translate(788.000000, 0.000000)">
+                    <g id="矩形备份-4">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <text id="eMint" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#000000">
+                        <tspan x="78.496" y="40">eMint  </tspan>
+                    </text>
+                    <text id="eUSD" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="81.751" y="84">eUSD    </tspan>
+                    </text>
+                </g>
+                <g id="编组-33备份" transform="translate(228.000000, 0.000000)">
+                    <g id="矩形备份-4">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    </g>
+                    <text id="rMint" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#000000">
+                        <tspan x="80.04" y="40">rMint  </tspan>
+                    </text>
+                    <text id="rUSD" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="83.081" y="84">rUSD    </tspan>
+                    </text>
+                </g>
+                <g id="编组-32" transform="translate(497.000000, 605.000000)">
+                    <g id="矩形备份-10">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    </g>
+                    <rect id="矩形备份-11" stroke="#00B5D2" fill-opacity="0.1" fill="#00B5D2" opacity="0.334007626" x="6" y="6" width="188" height="113" rx="12"></rect>
+                    <text id="Allows-users-to-swap" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#00B5D2">
+                        <tspan x="31.844" y="64">Allows users to swap </tspan>
+                        <tspan x="15.289" y="84">between ERC20 and non-</tspan>
+                        <tspan x="54.594" y="104">ERC20 assets</tspan>
+                    </text>
+                    <text id="rSwap" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#00B5D2">
+                        <tspan x="79.192" y="35">rSwap</tspan>
+                    </text>
+                </g>
+                <g id="编组-32备份" transform="translate(497.000000, 417.000000)">
+                    <g id="矩形备份-10">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    </g>
+                    <rect id="矩形备份-11" stroke="#00B5D2" fill-opacity="0.1" fill="#00B5D2" opacity="0.334007626" x="6" y="6" width="188" height="113" rx="12"></rect>
+                    <text id="40%-of-accrued-value" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#00B5D2">
+                        <tspan x="29.334" y="64">40% of accrued value </tspan>
+                        <tspan x="14.578" y="84">distributed to RAMP token </tspan>
+                        <tspan x="77.284" y="104">holders</tspan>
+                    </text>
+                    <text id="rPool" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#00B5D2">
+                        <tspan x="83.136" y="35">rPool</tspan>
+                    </text>
+                </g>
+                <g id="编组-32备份-2" transform="translate(760.000000, 305.000000)">
+                    <g id="矩形备份-10">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    </g>
+                    <rect id="矩形备份-11" stroke="#00B5D2" fill-opacity="0.1" fill="#00B5D2" opacity="0.334007626" x="6" y="6" width="188" height="113" rx="12"></rect>
+                    <text id="Optimized-yield-gene" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#00B5D2">
+                        <tspan x="50.852" y="64">Optimized yield </tspan>
+                        <tspan x="38.539" y="84">generation pool for </tspan>
+                        <tspan x="39.246" y="104">ERC20 stablecoins</tspan>
+                    </text>
+                    <text id="rFarm" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#00B5D2">
+                        <tspan x="80.712" y="35">rFarm</tspan>
+                    </text>
+                </g>
+                <g id="编组-32备份-3" transform="translate(497.000000, 0.000000)">
+                    <g id="矩形备份-10">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    </g>
+                    <rect id="矩形备份-11" stroke="#00B5D2" fill-opacity="0.1" fill="#00B5D2" opacity="0.334007626" x="6" y="6" width="188" height="113" rx="12"></rect>
+                    <text id="Borrowing-and-lendin" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#00B5D2">
+                        <tspan x="27.843" y="64">Borrowing and lending </tspan>
+                        <tspan x="28.494" y="84">platform for rUSD and </tspan>
+                        <tspan x="56.704" y="104">eUSD holders  </tspan>
+                    </text>
+                    <text id="rFinance" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#00B5D2">
+                        <tspan x="67.756" y="35">rFinance</tspan>
+                    </text>
+                </g>
+                <g id="编组-34" transform="translate(1000.000000, 190.000000)">
+                    <g id="矩形备份-5">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    </g>
+                    <text id="User's-ERC20-Wallet" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#000000">
+                        <tspan x="21.26" y="40">User's ERC20 Wallet</tspan>
+                    </text>
+                    <text id="USDT-/-USDC-/-TUSD-/" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="47.85" y="76">USDT / USDC / </tspan>
+                        <tspan x="61.941" y="96">TUSD / DAI</tspan>
+                    </text>
+                </g>
+                <path id="直线-2" d="M204.957672,65.9639458 L100.859809,173.847185 L100.512625,174.206994 L99.7930059,173.512625 L100.140191,173.152815 L204.238053,65.2695766 L201.359577,62.4920999 L210.847185,59.1401905 L207.836147,68.7414225 L204.957672,65.9639458 Z" fill="#979797" fill-rule="nonzero"></path>
+                <path id="直线-2" d="M1006.23202,65.3093253 L1100.87583,173.170224 L1101.20561,173.546054 L1100.45395,174.205605 L1100.12417,173.829776 L1005.48036,65.9688772 L1002.47373,68.6070851 L999.920224,58.8741705 L1009.23866,62.6711174 L1006.23202,65.3093253 Z" fill="#979797" fill-rule="nonzero"></path>
+                <path id="直线-3" d="M485,63 L447.5,63 L447,63 L447,62 L447.5,62 L485,62 L485,58 L494,62.5 L485,67 L485,63 Z" fill="#979797" fill-rule="nonzero"></path>
+                <path id="直线-3备份" d="M733.5,62.5 L771,62.5 L771.5,62.5 L771.5,63.5 L771,63.5 L733.5,63.5 L733.5,67.5 L724.5,63 L733.5,58.5 L733.5,62.5 Z" fill="#979797" fill-rule="nonzero"></path>
+                <g id="编组-36" transform="translate(440.000000, 374.000000)" fill="#979797" fill-rule="nonzero">
+                    <path id="直线-5" d="M47.7054591,92.6079989 L0.71738428,60.4124662 L0.304918094,60.1298505 L0.870149534,59.3049181 L1.28261572,59.5875338 L48.2706906,91.7830666 L50.5316163,88.4833371 L55.4124662,97.2826157 L45.4445334,95.9077284 L47.7054591,92.6079989 Z"></path>
+                    <path id="直线-9" d="M7.62784992,5.15765558 L54.7976138,40.0982214 L55.1993924,40.3958352 L54.6041648,41.1993924 L54.2023862,40.9017786 L7.03262237,5.96121278 L4.65171217,9.17544155 L0.0982214033,0.202386225 L10.0087601,1.94342681 L7.62784992,5.15765558 Z"></path>
+                </g>
+                <g id="编组-36" transform="translate(726.500000, 422.500000) scale(-1, 1) translate(-726.500000, -422.500000) translate(699.000000, 374.000000)" fill="#979797" fill-rule="nonzero">
+                    <path id="直线-5" d="M47.7054591,92.6079989 L0.71738428,60.4124662 L0.304918094,60.1298505 L0.870149534,59.3049181 L1.28261572,59.5875338 L48.2706906,91.7830666 L50.5316163,88.4833371 L55.4124662,97.2826157 L45.4445334,95.9077284 L47.7054591,92.6079989 Z"></path>
+                    <path id="直线-9" d="M7.62784992,5.15765558 L54.7976138,40.0982214 L55.1993924,40.3958352 L54.6041648,41.1993924 L54.2023862,40.9017786 L7.03262237,5.96121278 L4.65171217,9.17544155 L0.0982214033,0.202386225 L10.0087601,1.94342681 L7.62784992,5.15765558 Z"></path>
+                </g>
+                <path id="直线-6" d="M353,289 L353,141.5 L353,141 L354,141 L354,141.5 L354,289 L358,289 L353.5,298 L349,289 L353,289 Z" fill="#979797" fill-rule="nonzero"></path>
+                <path id="直线-7" d="M445.851973,290.877585 L582.130245,141.163428 L582.466817,140.793672 L583.206328,141.466817 L582.869755,141.836572 L446.591484,291.550729 L449.549528,294.243308 L440.163428,297.869755 L442.89393,288.185007 L445.851973,290.877585 Z" fill="#979797" fill-rule="nonzero"></path>
+                <path id="直线-8" d="M737.474386,291.484023 L605.126561,142.832481 L604.79408,142.459042 L605.540958,141.79408 L605.873439,142.167519 L738.221263,290.819061 L741.208773,288.159214 L743.832481,297.873439 L734.486877,294.14387 L737.474386,291.484023 Z" fill="#979797" fill-rule="nonzero"></path>
+                <path id="直线-10" d="M834,289 L834,142.5 L834,142 L835,142 L835,142.5 L835,289 L839,289 L834.5,298 L830,289 L834,289 Z" fill="#979797" fill-rule="nonzero"></path>
+                <path id="直线-11" d="M987.351581,246.411224 L961.952905,300.711843 L961.741062,301.164747 L960.835253,300.741062 L961.047095,300.288157 L986.445772,245.987539 L982.822534,244.292798 L990.711843,238.047095 L990.97482,248.105964 L987.351581,246.411224 Z" fill="#979797" fill-rule="nonzero"></path>
+                <g id="编组-3" transform="translate(36.500000, 332.000000)" fill="#979797" fill-rule="nonzero">
+                    <path id="直线-12" d="M38.5,338.5 L449,338.5 L449,2.5 L449,2 L450,2 L450,2.5 L450,339 L450,339.5 L449.5,339.5 L38.5,339.5 L38.5,343.5 L29.5,339 L38.5,334.5 L38.5,338.5 Z"></path>
+                    <path id="直线-12备份" d="M42,403 L402.5,403 L402.5,-33 L402.5,-33.5 L403.5,-33.5 L403.5,-33 L403.5,403.5 L403.5,404 L403,404 L42,404 L42,408 L33,403.5 L42,399 L42,403 Z"></path>
+                </g>
+                <g id="编组-3备份" transform="translate(933.000000, 517.000000) scale(-1, 1) translate(-933.000000, -517.000000) translate(708.000000, 332.000000)" fill="#979797" fill-rule="nonzero">
+                    <path id="直线-12" d="M38.5,338.5 L449,338.5 L449,2.5 L449,2 L450,2 L450,2.5 L450,339 L450,339.5 L449.5,339.5 L38.5,339.5 L38.5,343.5 L29.5,339 L38.5,334.5 L38.5,338.5 Z"></path>
+                    <path id="直线-12备份" d="M42,403 L402.5,403 L402.5,-33 L402.5,-33.5 L403.5,-33.5 L403.5,-33 L403.5,403.5 L403.5,404 L403,404 L42,404 L42,408 L33,403.5 L42,399 L42,403 Z"></path>
+                </g>
+                <path id="直线-14" d="M539.5,583.5 L539.5,555 L539.5,554.5 L540.5,554.5 L540.5,555 L540.5,583.5 L544.5,583.5 L540,592.5 L535.5,583.5 L539.5,583.5 Z" fill="#979797" fill-rule="nonzero"></path>
+                <path id="直线-14备份" d="M562.5,583.5 L562.5,555 L562.5,554.5 L563.5,554.5 L563.5,555 L563.5,583.5 L567.5,583.5 L563,592.5 L558.5,583.5 L562.5,583.5 Z" fill="#979797" fill-rule="nonzero"></path>
+                <path id="直线-11" d="M234.351581,246.411224 L208.952905,300.711843 L208.741062,301.164747 L207.835253,300.741062 L208.047095,300.288157 L233.445772,245.987539 L229.822534,244.292798 L237.711843,238.047095 L237.97482,248.105964 L234.351581,246.411224 Z" fill="#979797" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
