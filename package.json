@@ -13,7 +13,7 @@
     "build": "webpack --progress --colors --watch --config webpack/webpack.dev.config.js",
     "dev": "webpack-dev-server --progress --colors --port 8091 --display-error-details --inline --hot --content-base root/build --config webpack/webpack.dev.config.js",
     "deploy": "npm run clean && NODE_ENV=production webpack -p --progress --display-error-details --config webpack/webpack.deploy.config.js && cp dist/en.html dist/index.html && cp favicon.jpg dist",
-    "upload": "scp -r dist/* sm@test.social.isekai.me:~/jrr"
+    "upload": "scp -r dist/* sm@test.social.isekai.me:~/idc"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
