@@ -70,3 +70,7 @@ if (window.innerWidth < 600) {
 $('.to-top').click(() => {
   $('html,body').animate({ scrollTop: 0 }, 500);
 });
+
+$(() => {
+  $('#home').css('height', `${window.innerHeight}px`);
+});

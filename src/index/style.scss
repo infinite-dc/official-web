@@ -35,17 +35,19 @@ body {
   overflow: hidden;
   position: relative;
 
-  .bg-container {
-    position: absolute;
+  &::before {
+    content: ' ';
+    position: fixed;
+    z-index: -1;
     top: 0;
-    left: 0;
-    width: 100%;
+    right: 0;
     height: 100%;
+    width: 100%;
     background-image: url(../_assets/bg.jpg);
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
   }
+
   .mask {
     position: absolute;
     top: 0;
@@ -79,6 +81,7 @@ body {
 #introduction,
 #team {
   padding: 100px 0;
+  background: #fff;
 
   .text {
     font-size: 16px;
